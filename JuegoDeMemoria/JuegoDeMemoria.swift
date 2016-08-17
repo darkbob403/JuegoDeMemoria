@@ -6,7 +6,6 @@
 //  Copyright © 2016 Ivan Fernandez. All rights reserved.
 //
 
-import Foundation
 import UIKit
 
 for i in 0  ..< 101  {
