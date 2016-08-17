@@ -14,6 +14,7 @@
 		66CD04871D6477C4005C7AA6 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 66CD04851D6477C4005C7AA6 /* LaunchScreen.storyboard */; };
 		66CD04921D6477C4005C7AA6 /* JuegoDeMemoriaTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 66CD04911D6477C4005C7AA6 /* JuegoDeMemoriaTests.swift */; };
 		66CD049D1D6477C4005C7AA6 /* JuegoDeMemoriaUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 66CD049C1D6477C4005C7AA6 /* JuegoDeMemoriaUITests.swift */; };
+		66CD04AB1D647AAA005C7AA6 /* JuegoDeMemoria.swift in Sources */ = {isa = PBXBuildFile; fileRef = 66CD04AA1D647AAA005C7AA6 /* JuegoDeMemoria.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		66CD04981D6477C4005C7AA6 /* JuegoDeMemoriaUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = JuegoDeMemoriaUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		66CD049C1D6477C4005C7AA6 /* JuegoDeMemoriaUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JuegoDeMemoriaUITests.swift; sourceTree = "<group>"; };
 		66CD049E1D6477C4005C7AA6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		66CD04AA1D647AAA005C7AA6 /* JuegoDeMemoria.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = JuegoDeMemoria.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				66CD04831D6477C4005C7AA6 /* Assets.xcassets */,
 				66CD04851D6477C4005C7AA6 /* LaunchScreen.storyboard */,
 				66CD04881D6477C4005C7AA6 /* Info.plist */,
+				66CD04AA1D647AAA005C7AA6 /* JuegoDeMemoria.swift */,
 			);
 			path = JuegoDeMemoria;
 			sourceTree = "<group>";
@@ -257,6 +260,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				66CD047F1D6477C4005C7AA6 /* ViewController.swift in Sources */,
+				66CD04AB1D647AAA005C7AA6 /* JuegoDeMemoria.swift in Sources */,
 				66CD047D1D6477C4005C7AA6 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
